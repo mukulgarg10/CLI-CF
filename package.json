@@ -1,0 +1,23 @@
+{
+  "name": "cf-cli",
+  "version": "1.0.0",
+  "description": "CLI for Codeforces submissions",
+  "main": "index.js",
+  "bin": "./bin/cfcli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivansh Mishra",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.20",
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "commander": "^5.1.0",
+    "configstore": "^5.0.1",
+    "inquirer": "^7.1.0",
+    "request": "^2.88.2",
+    "tough-cookie-filestore": "0.0.1"
+  }
+}
