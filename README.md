@@ -13,13 +13,6 @@ CF-CLI is a command line tool implemented in Node JS to provide almost all funct
 bash settings.sh
 ```
 
-## Usage
-
-Currently cf-cli can perform the following tasks
-
-```bash
-shivansh@shivanshm:~/ed/CF-cli$ cf-cli
-Usage: cf-cli [options] [command]
 
 Options:
   -V, --version   output the version number
